@@ -61,7 +61,7 @@
 Tips:链接里最好使用raw.githubusercontent.com的模板地址，其他的链接没有测试过
 网站|作者|链接|变量说明|备注/日志
 :-: | :-: | :-: | :-: |:-:
-summer-plus(原south-plus)|[AragonSnow](https://github.com/AragonSnow)<br>[github-h](https://github.com/github-h)|[summer-plus(原south-plus).har](https://raw.githubusercontent.com/github-h/qiandao-templates/self-bak/summer-plus(%E5%8E%9Fsouth-plus).har)|pwd 密码<br> user 用户名|https://www.summer-plus.net/
+summer-plus(原south-plus)|[AragonSnow](https://github.com/AragonSnow)<br>[github-h](https://github.com/github-h)|[summer-plus(原south-plus).har](https://raw.githubusercontent.com/github-h/qiandao-templates/self-bak/summer-plus(%E5%8E%9Fsouth-plus).har)|cookie|https://www.summer-plus.net/
 ZodGame论坛|[github-h](https://github.com/github-h)|[ZodGame论坛.har](https://raw.githubusercontent.com/github-h/qiandao-templates/self-bak/ZodGame%E8%AE%BA%E5%9D%9B.har)|cookie|https://zodgame.xyz
 星空论坛seikuu|[github-h](https://github.com/github-h)|[星空论坛seikuu.har](https://raw.githubusercontent.com/github-h/qiandao-templates/self-bak/%E6%98%9F%E7%A9%BA%E8%AE%BA%E5%9D%9Bseikuu.har)|cookie|https://bbs2.seikuu.com/
 网易云音乐-电脑 AND 手机|[qiandao.today公共模板](https://qiandao.today/tpls/public)|[网易云音乐-电脑 AND 手机.har](https://raw.githubusercontent.com/github-h/qiandao-templates/self-bak/%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90-%e7%94%b5%e8%84%91+AND+%e6%89%8b%e6%9c%ba.har)|cookie|https://music.163.com/
