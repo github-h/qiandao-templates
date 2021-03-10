@@ -55,3 +55,5 @@
 
 1. 但凡是以 **Authorization** 作为认证标识的，大多都可在登录请求返回的包中找到该值，可能参数为 **Token** 。也就是说可以把定期会过期的 **Authorization** 转为用户名密码登录模板达到不过期效果（如果登陆时不需要验证码）
 2. **Authorization** 该值通常以 **Bearer** 开头，可以去头放到 [JSON Web Tokens](https://jwt.io/#debugger-io) 尝试解密
+3. **部分模板订阅后使用网站cookie却提示未登录？**
+   并不是模板问题而是网站对UA有验证，UA更换cookie会失效。请自行查看模板所使用的 User-Agent ,并使用所获得的UA去登录获取cookie。( Firefox 可使用 User-Agent Switcher and Manager 来设置特定的UA，其他浏览器同理。)
